@@ -4,7 +4,7 @@
 ****
 
 # Tower of Hanoi with STRIPS and A*.
-> Try me out: https://romainducrocq.github.io/uge/MAS-project/code/index.html
+> Try me out: https://romainducrocq.github.io/UGE-multi_agent_systems_and_applications/index.html
 
 ****
 
